@@ -1,0 +1,42 @@
+/*
+* Leah Rizzo
+* December 5, 2018
+* CSS
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* The background color behind the picture in the header section */
+
+
+header {
+    background-color: #ff6666;
+    text-align: center;
+   
+}
+/* The background color for the whole web page */
+body {
+  background: #ffb3cc;  
+}
+ #Laptopgirls {width: 300px; height: 200px;float:right;}
+ #Notmyboyfriends {width: 300px; height: 200px;float:right;}
+
+/* The text style for "about" */
+h3{
+    text-decoration: underline;
+     font-family: cursive, sans-serif;
+}
+
+/* The text style for "location" */
+h2{
+    text-decoration: underline;
+     font-family: cursive, sans-serif;
+}
+/* The color and size when you hover over the links */
+a:hover, a:focus { color: deeppink}
+a:hover, a:focus {font-size: 150%;}
+
